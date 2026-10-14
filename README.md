@@ -6,7 +6,7 @@
 
 ## About me
 
-Software Engineer | LLM | 
+Software Engineer | LLM | Backend
 
 - 🐱 Building **[Boabosh's World](https://github.com/Ken-Smit/boabosh-world)**, a 3D learning game where kids answer questions to care for a cat (TypeScript, three.js, Supabase) — play it at [boabosh-world.vercel.app](https://boabosh-world.vercel.app)
 - 🛠️ Built **[Rig Ledger](https://rig-ledger.onrender.com/home)**, **Hivemind(Agent Interface)** 
