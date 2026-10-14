@@ -34,7 +34,7 @@ I love building applications — it's a passion for me. I'm looking to create an
 <img src="https://github-readme-stats.vercel.app/api?username=Ken-Smit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Smit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ken-Smit&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ken-Smit&theme=tokyonight" alt="Contribution activity" />
 
 </div>
 
