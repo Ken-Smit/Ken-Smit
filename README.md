@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF7A1A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kenneth+Smith+%F0%9F%91%8B;I+build+apps+for+fun+and+for+real;TypeScript+%E2%80%A2+Go+%E2%80%A2+Python;Robust%2C+secure+software" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF7A1A&center=true&vCenter=true&width=600&lines=TypeScript+%E2%80%A2+Go+%E2%80%A2+Python" alt="Typing intro" />
 
 </div>
 
