@@ -4,13 +4,13 @@
 
 </div>
 
-## 🙋 About me
+## About me
 
-I love building applications — it's a passion for me. I'm looking to create and collaborate on robust, secure software.
+Engineer | 
 
 - 🐱 Building **[Boabosh's World](https://github.com/Ken-Smit/boabosh-world)**, a 3D learning game where kids answer questions to care for a cat (TypeScript, three.js, Supabase) — play it at [boabosh-world.vercel.app](https://boabosh-world.vercel.app)
-- 🛠️ Also working on **[Rig Ledger](https://rig-ledger.onrender.com/home)**, **Hivemind** and **Freedom Index**
-- 🌱 Background in Java, Python, PHP and web development (HTML / CSS / JavaScript)
+- 🛠️ Built **[Rig Ledger](https://rig-ledger.onrender.com/home)**, **Hivemind(Agent Interface)** 
+- 🌱 Background in Java, Python, PHP and Go
 
 ## 🧰 Tech I use
 
