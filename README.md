@@ -6,13 +6,13 @@
 
 ## About me
 
-Engineer | 
+Software Engineer | LLM | 
 
 - 🐱 Building **[Boabosh's World](https://github.com/Ken-Smit/boabosh-world)**, a 3D learning game where kids answer questions to care for a cat (TypeScript, three.js, Supabase) — play it at [boabosh-world.vercel.app](https://boabosh-world.vercel.app)
 - 🛠️ Built **[Rig Ledger](https://rig-ledger.onrender.com/home)**, **Hivemind(Agent Interface)** 
 - 🌱 Languages: TypeScript, Go, Java, Python, PHP
 
-## 🧰 Tech I use
+## 🧰 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,8 +20,6 @@ Engineer |
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
