@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF7A1A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kenneth+Smith+%F0%9F%91%8B;I+build+apps+for+fun+and+for+real;TypeScript+%E2%80%A2+Java+%E2%80%A2+Python;Robust%2C+secure+software" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF7A1A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kenneth+Smith+%F0%9F%91%8B;I+build+apps+for+fun+and+for+real;TypeScript+%E2%80%A2+Go+%E2%80%A2+Java+%E2%80%A2+Python;Robust%2C+secure+software" alt="Typing intro" />
 
 </div>
 
@@ -10,12 +10,13 @@ Engineer |
 
 - 🐱 Building **[Boabosh's World](https://github.com/Ken-Smit/boabosh-world)**, a 3D learning game where kids answer questions to care for a cat (TypeScript, three.js, Supabase) — play it at [boabosh-world.vercel.app](https://boabosh-world.vercel.app)
 - 🛠️ Built **[Rig Ledger](https://rig-ledger.onrender.com/home)**, **Hivemind(Agent Interface)** 
-- 🌱 Background in Java, Python, PHP and Go
+- 🌱 Languages: TypeScript, Go, Java, Python, PHP and Go
 
 ## 🧰 Tech I use
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
